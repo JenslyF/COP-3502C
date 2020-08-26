@@ -1,2 +1,2 @@
 # COP 3502C
-Computer Science II
+Computer Science I
